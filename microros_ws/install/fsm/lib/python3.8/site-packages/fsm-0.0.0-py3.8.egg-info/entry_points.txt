@@ -1,0 +1,3 @@
+[console_scripts]
+brsd_fsm_node = fsm.brsd_fsm_node:main
+
